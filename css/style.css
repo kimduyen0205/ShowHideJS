@@ -1,0 +1,12 @@
+#result{
+    width: 100%;
+    height: 300px;
+    background-color: deeppink;
+    text-align: center;
+    color:#fff;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 116px 0;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
